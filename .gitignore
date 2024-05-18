@@ -1,0 +1,5 @@
+lib*.a
+demo/demo
+demo/*.exe
+.vscode
+/obj
